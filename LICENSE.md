@@ -1,4 +1,4 @@
-# 
+# Ultimate dydx trading bot workflow for Mac OS | Elite dydx trading bot workflow for PC Windows. Featuring decentralized exchange api and mean reversion strategy — optimized for maximum performance.
 
 
 
